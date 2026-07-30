@@ -22,7 +22,7 @@ Each script reproduces the experimental pipeline for one language pair.
 
 This dataset includes 50 homographs that exist in both Ancient (Biblical) and Modern Hebrew but have significantly different meanings. The dataset may be suitable for automatic model evaluation as well as academic/educational applications.
 
-The pairs were derived through a crawl of Biblical and Modern Hebrew dictionaries and the calculation of cosine distance based on the words' English definitions as represented by two transformer models ([**all-MiniLM-L6-v2**](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2) and [**distiluse-base-multilingual-cased-v2**](https://huggingface.co/sentence-transformers/distiluse-base-multilingual-cased-v2)).
+The pairs were derived through a crawl of Biblical and Modern Hebrew dictionaries and the calculation of cosine distance based on the words' English definitions as represented by two transformer models ([**all-MiniLM-L6-v2**](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2) and [**paraphrase-multilingual-MiniLM-L12-v2**](https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2)).
 
 - [**false_friends_BH_vs_MH_final.xlsx**](./false_friends_BH_vs_MH_final.xlsx)  
   dataset in Excel format  
