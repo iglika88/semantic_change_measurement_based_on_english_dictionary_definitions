@@ -14,6 +14,7 @@ The following files implement the semantic change calculation experiments based 
 - `greek_experiments.py`
 - `latin_french_experiments.py`
 - `latin_italian_experiments.py`
+- `latin_french_latin_italian_comparison.py`
 
 Each script reproduces the experimental pipeline for one language pair.
 
